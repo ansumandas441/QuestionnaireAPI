@@ -1,7 +1,7 @@
-![vericap](https://i.postimg.cc/15ZnnGrT/favicon-256x256.png)
+<img src = "https://i.postimg.cc/15ZnnGrT/favicon-256x256.png" width="80" height="80">
 
 # _Vericap_
-Vericap is revolutionizing the world of sustainable finance. As a multi-commodity financing, asset, and liquidity management tool, Vericap specializes in de-risking investments in early-stage projects, with a primary focus on carbon markets. Our mission is to bridge the gap between investors and developers in the sustainability space by providing innovative financial solutions that accelerate the transition to a low-carbon economy
+Vericap is revolutionizing the world of sustainable finance. As a financing and data infrastructure platform, Vericap specializes in de-risking investments in early-stage carbon projects. Our mission is to bridge the gap between investors and developers in the sustainability space by providing innovative financial solutions that accelerate the transition to a low-carbon economy.
 
 ---
 
@@ -11,9 +11,9 @@ Vericap is revolutionizing the world of sustainable finance. As a multi-commodit
 ## Setup Instructions:
 
 1. Fork the repository.
-2. Clone It into system.
+2. Clone It into the system.
 3. Navigate to the `assignment/junior-backend-engineer` branch.
-4. You are good to go
+4. You are good to go.
 
 ---
 
@@ -45,11 +45,11 @@ User responses must be saved and associated with the project type and questionna
 2. Provide clear error messages to facilitate debugging and troubleshooting.
 
 ### Few Screen References:
-![image-1](https://i.postimg.cc/cLK4H68C/image.png)
-![image-2](https://i.postimg.cc/3xPrD7gB/image-1.png)
-![image-3](https://i.postimg.cc/fyTMhbNw/image-2.png)
-![image-4](https://i.postimg.cc/bJPz3TVS/image-3.png)
-![image-5](https://i.postimg.cc/sXJ38hb6/image-4.png)
+<img src ="https://i.postimg.cc/cLK4H68C/image.png" width="564">
+<img src ="https://i.postimg.cc/3xPrD7gB/image-1.png" width="564">
+<img src ="https://i.postimg.cc/fyTMhbNw/image-2.png" width="564">
+<img src ="https://i.postimg.cc/bJPz3TVS/image-3.png" width="564">
+<img src ="https://i.postimg.cc/sXJ38hb6/image-4.png" width="564">
 
 ### Deliverables:
 
@@ -60,13 +60,13 @@ User responses must be saved and associated with the project type and questionna
 
 ### Testing Instructions:
 
-1. Utilize tools like Postman or curl to send requests to the defined endpoints.
+1. Utilize tools like Postman or Curl to send requests to the defined endpoints.
 2. Test each endpoint with valid and invalid inputs to ensure proper functionality.
 3. Verify error messages and response formats.
 
 ---
 
-If you have any questions or encounter issues during the setup process, please refer to the provided documentation or feel free to reach out to us at [hr@vericap.io](hr@vericap.io)
+If you have any questions or encounter issues during the setup process, please refer to the provided documentation or feel free to reach out to us at [backend@vericap.io](mailto:backend@vericap.io)
 
 Best of luck with the assignment! We look forward to reviewing your submission.
 
