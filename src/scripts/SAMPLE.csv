@@ -1,0 +1,731 @@
+S. No.,Questions,Type
+1,Company or organization name,JEE
+2,Company or organization location (we welcome applicants from anywhere in the world),JEE
+3,Name(s) of primary point(s) of contact for this application,JEE
+4,Brief company or organization description,JEE
+5,Project Overview,JEE
+6,"a. Describe how the proposed technology removes CO2 
+from the atmosphere, including as many details as possible. Discuss location(s) and scale. 
+Please include figures and system schematics. Tell us why your system is best-in-class, and 
+how you’re differentiated from any other organization working on a similar technology.",JEE
+7,b. What is the current technology readiness level (TRL)? Please include performance and stability data that you’ve already generated (including at what scale) to substantiate the status of your tech.,JEE
+8," c. What are the key performance parameters that differentiate your technology (e.g. energy intensity,
+ reaction kinetics, cycle time, volume per X, quality of Y output)? What is your current measured value
+ and what value are you assuming in your nth-of-a-kind (NOAK) TEA?
+(Key performance parameter, Current observed value (units), Value assumed in NOAK TEA (units),
+ Why is it feasible to reach the NOAK value?)",JEE
+9,"d. Who are the key people at your company who will be working on this? What experience do they have
+ with relevant technology and project development? What skills do you not yet have on the team today
+ that you are most urgently looking to recruit?",JEE
+10," e. Are there other organizations you’re partnering with on this project (or need to partner with in order to
+ be successful)? If so, list who they are, what their role in the project is, and their level of commitment
+ (e.g., confirmed project partner, discussing potential collaboration, yet to be approached, etc.)
+(Partner, Role in the Project, Level of Commitment).",JEE
+11," f. What is the total timeline of your proposal from start of development to end of CDR delivery? If you’re
+ building a facility that will be decommissioned, when will that happen?",JEE
+12,"g. When will CDR occur (start and end dates)? If CDR does not occur uniformly over that time period,
+ describe the distribution of CDR over time. Please include the academic publications, field trial data, or
+ other materials you use to substantiate this distribution.",JEE
+13," h. Please estimate your gross CDR capacity over the coming years (your total capacity, not just for this
+ proposal)
+(Year, Estimated gross CDR capacity (tonnes))",JEE
+14," i. List and describe at least three key milestones for this project (including prior to when CDR starts), that
+ are needed to achieve the amount of CDR over the proposed timeline.
+(S,no, milestone description, Target completion date)",JEE
+15," j. What is your IP strategy? Please link to relevant patents, pending or granted, that are available publicly
+ (if applicable).",JEE
+16, k. How are you going to finance this project?,JEE
+17," l. Do you have other CDR buyers for this project? If so, please describe the anticipated purchase volume
+ and level of commitment (e.g., contract signed, in active discussions, to be approached, etc.)",JEE
+18," m. What other revenue streams are you expecting from this project (if applicable)? Include the source of
+ revenue and anticipated amount. Examples could include tax credits and co-products.",JEE
+19," n. Identify risks for this project and how you will mitigate them. Include technical, project execution,
+ ecosystem, financial, and any other risks.
+(Risk, Mitigation strategy)",JEE
+20,Durability,JEE
+21," a. Describe how your approach results in permanent CDR (> 1,000 years). Include citations to
+ scientific/technical literature supporting your argument. What are the upper and lower bounds on your
+ durability estimate?",JEE
+22," b. What durability risks does your project face? Are there physical risks (e.g. leakage, decomposition and
+ decay, damage, etc.)? Are there socioeconomic risks (e.g. mismanagement of storage, decision to
+ consume or combust derived products, etc.)? What fundamental uncertainties exist about the underlying
+ technological or biological process?",JEE
+23,Gross Removal & Life Cycle Analysis (LCA),JEE
+24," a. How much GROSS CDR will occur over this project’s timeline? All tonnage should be described inmetric
+ tonnesof CO2
+ here and throughout the application.Tell us how you calculated this value (i.e., show your
+ work). If you have uncertainties in the amount of gross CDR, tell us where they come from.",JEE
+25,Gross tonnes of CDR over project lifetime,JEE
+26,Describe how you calculated that value,JEE
+27," b. How many tonnes of CO2
+ have you captured and storedto date? If relevant to your technology (e.g.,
+ DAC), please list captured and stored tons separately",JEE
+28,"c. If applicable, list any avoided emissions that result from your project. For carbon mineralization in
+ concrete production, for example, removal would be the CO₂ utilized in concrete production and
+ avoided emissions would be the emissions reductions associated with traditional concrete production.
+ Do not include this number in your gross or net CDR calculations; it’s just to help us understand potential
+ co-benefits of your approach.",JEE
+29," d. How many GROSS EMISSIONS will occur over the project lifetime? Divide that value by the gross CDR to
+ get the emissions / removal ratio. Subtract it from the gross CDR to get the net CDR for this project.",JEE
+30,"Gross project emissions over the project timeline (should correspond to the boundary conditions
+ described below this table)",JEE
+31,"Emissions / removal ratio (gross project emissions / gross CDR–must be less than
+ one for net-negative CDR systems)",JEE
+32,Net CDR over the project timeline (gross CDR - gross project emissions),JEE
+33," e. Provide a process flow diagram (PFD) for your CDR solution, visualizing the project emissions numbers
+ above. This diagram provides the basis for your life cycle analysis (LCA). Some notes:
+ ● The LCA scope should be cradle-to-grave
+ ● For each step in the PFD, include all Scope 1-3 greenhouse gas emissions on a CO2 
+equivalent
+ basis
+ ● Do not include CDR claimed by another entity (no double counting)
+ ● For assistance, please:
+ ○ Review the diagram below from the CDR Primer, Charm’s application from 2020 for a
+ simple example, or CarbonCure’s for a more complex example
+ ○ See University of Michigan’s Global CO2 
+Initiative resource guide
+ ● If you’ve had a third-party LCA performed, please link to it.",JEE
+34," f. Please articulate and justify the boundary conditions you assumed above: why do your calculations and
+ diagram include or exclude different components of your system?",JEE
+35,"g. Please justify all numbers used to assign emissions to each process step depicted in your diagram
+ above.  Are they solely modeled or have you measured them directly? Have they been independently
+ measured? Your answers can include references to peer-reviewed publications
+(Process Step, CO2 (eq) emissions over the project lifetime (metric tonnes), Describe how you calculated 
+that number. Include references where appropriate.)",JEE
+36,"Measurement, Reporting, and Verification (MRV)
+ Above section captures a project’s lifecycle emissions, which is one of a number of MRV considerations. In this
+ section, we are looking for additional details on your MRV approach, with a particular focus on the ongoing
+ quantification of carbon removal outcomes and associated uncertainties",JEE
+37," a. Describe your ongoing approach to quantifying the CDR of your project, including methodology, what
+ data is measured vs modeled, monitoring frequency, and key assumptions. If you plan to use an existing
+ protocol, please link to it. Please seeCharm’s bio-oilsequestration protocolfor reference, though note
+ we do not expect proposals to have a protocol at this depth at the prepurchase stage.",JEE
+38," b. How will you quantify the durability of the carbon sequestered by your project discussed in 2(b)? If direct
+ measurement is difficult or impossible, how will you rely on models or assumptions, and how will you validate 
+those assumptions? (E.g. monitoring of injection sites, tracking biomass state and location,
+ estimating decay rates, etc.)",JEE
+39," c. This tool diagrams components that we anticipate shouldbe measured or modeled to quantify CDR and
+ durability outcomes, along with high-level characterizations of the uncertainty type and magnitude for
+ each element. We are asking the net CDR volume to be discounted in order to account for uncertainty
+ and reflect the actual net CDR as accurately as possible. Please complete the table below. Some notes:
+ ● In the first column, list the quantification components from theQuantification Toolrelevant to your
+ project (e.g., risk of secondary mineral formation for enhanced weathering, uncertainty in the
+ mass of kelp grown, variability in air-sea gas exchange efficiency for ocean alkalinity
+ enhancement, etc.).
+ ● In the second column, please discuss the magnitude of this uncertainty related to your project
+ and what percentage of the net CDR should be discounted to appropriately reflect these
+ uncertainties. Your estimates should be based on field measurements, modeling, or scientific
+ literature. The magnitude for some of these factors relies on your operational choices (i.e.,
+ methodology, deployment site), while others stem from broader field questions, and in some
+ cases, may not be well constrained.We are not lookingfor precise figures at this stage, but
+ rather to understand how your project is thinking about these questions.
+ ● Seethis postfor details on Frontier’s MRV approachand a sample uncertainty discount
+ calculation and thisSupplier Measurement & VerificationQ&A documentfor additional guidance.",JEE
+40,"Quantification component( Include each component from the Quantification Toolrelevant to your project),
+ Discuss the uncertainty impact related to your project(Estimate the impact of this component as a percentage 
+of net CDR. Include assumptions and scientific references if possible)",JEE
+41," d. Based on your responses to 4(c), what percentage of the net CDR do you think should be discounted for
+ each of these factors above and in aggregate to appropriately reflect these uncertainties?",JEE
+42," e. Will this project help advance quantification approaches or reduce uncertainty for this CDR pathway? If
+ yes, describe what new tools, models or approaches you are developing, what new data will be
+ generated, etc.?",JEE
+43," f. Describe your intended plan and partners for verifying delivery and registering credits, if known. If a
+ protocol doesn’t yet exist for your technology, who will develop it? Will there be a third party auditor to
+ verify delivery against that protocol or the protocol discussed in 8(a)?",JEE
+44,Cost,JEE
+45," We are open to purchasing high-cost CDR today with the expectation the cost per tonne will rapidly decline over
+ time. The questions below are meant to capture some of the key numbers and assumptions that you are entering
+ into the separate techno-economic analysis (TEA) spreadsheet (see step 4 in Applicant Instructions). There are no
+ right or wrong answers, but we would prefer high and conservative estimates to low and optimistic. If we select
+ you for purchase, we’ll work with you to understand your milestones and their verification in more depth",JEE
+46," a. What is the levelized price per net metric tonne of CO₂ removed for the project you’re proposing Frontier
+ purchase from? This does not need to exactly match the cost calculated for “This Project” in the TEA
+ spreadsheet (e.g., it’s expected to include a margin), but we will be using the data in that spreadsheet to
+ consider your offer. Please specify whether the price per tonne below includes the uncertainty discount in
+ the net removal volume proposed in response to question 8(d)",JEE
+47," b. Please break out the components of this levelized price per metric tonne.
+(Component, Levelized price of net CDR for this project ($/tonne))",JEE
+48," c. Describe the parameters that have the greatest sensitivity to cost (e.g., manufacturing efficiencies,
+ material cost, material lifetime, etc.). For each parameter you identify, tell us what the current value is, and
+ what value you are assuming for your NOAK commercial-scale TEA. If this includes parameters you
+ already identified in 1(c), please repeat them here (if applicable). Broadly, what would need to be true for
+ your approach to achieve a cost of $100/tonne?",JEE
+49,"(Parameter with high impact on cost, Current value (units), Value assumed in NOAK TEA (units),
+ Why is it feasible to reach the NOAK value?)",JEE
+50,d. What aspects of your cost analysis are you least confident in?,JEE
+51,"e. How do the CDR costs calculated in the TEA spreadsheet compare with your own models? If there are
+ large differences, please describe why that might be (e.g., you’re assuming different learning rates,
+ different multipliers to get from Bare Erected Cost to Total Overnight Cost, favorable contract terms, etc.)",JEE
+52," f. What is one thing that doesn’t exist today that would make it easier for you to commercialize your
+ technology? (e.g., improved sensing technologies, increased access to X, etc.)",JEE
+53,Public Engagement,JEE
+54," In alignment with Frontier’s Safety & Legality criteria, Frontier requires projects to consider and address potential
+ social, political, and ecosystem risks associated with their deployments. Projects with effective public
+ engagement tend to:
+ ● Identify key stakeholders in the area they’ll be deploying
+ ● Have mechanisms in place to engage and gather opinions from those stakeholders, take those opinions
+ seriously, and develop active partnerships, iterating the project as necessary
+ The following questions help us gain an understanding of your public engagement strategy and how your project
+ is working to follow best practices for responsible CDR project development. We recognize that, for early
+ projects, this work may be quite nascent, but we are looking to understand your early approach.",JEE
+55," a. Who have you identified as relevant external stakeholders, where are they located, and what process did
+ you use to identify them? Please include discussion of the communities potentially engaging in or
+ impacted by your project’s deployment.",JEE
+56," b. If applicable, how have you engaged with these stakeholders and communities? Has this work been
+ performed in-house, with external consultants, or with independent advisors? If you do have any reports
+ on public engagement that your team has prepared, please provide.",JEE
+57,"c. If applicable, what have you learned from these engagements? What modifications have you already
+ made to your project based on this feedback, if any?",JEE
+58," d. Going forward, do you have changes to your processes for (a) and (b) planned that you have not yet
+ implemented? How do you envision your public engagement strategy at the megaton or gigaton scale?",JEE
+59,Environmental Justice,JEE
+60," As a part of Frontier’s Safety & Legality criteria, Frontier seeks projects that proactively integrate environmental
+ and social justice considerations into their deployment strategy and decision-making on an ongoing basis.",JEE
+61," a. What are the potential environmental justice considerations, if any, that you have identified associated
+ with your project? Who are the key stakeholders? Consider supply chain impacts, worker compensation
+ and safety, plant siting, distribution of impacts, restorative justice/activities, job creation in marginalized
+ communities, etc",JEE
+62," b. How do you intend to address any identified environmental justice concerns and / or take advantage of
+ opportunities for positive impact?",JEE
+63,Legal and Regulatory Compliance,JEE
+64,"a. What legal opinions, if any, have you received regarding deployment of your solution?",JEE
+65," b. What permits or other forms of formal permission do you require, if any, to engage in the research or
+ deployment of your project? What else might be required in the future as you scale? Please clearly
+ differentiate between what you have already obtained, what you are currently in the process of obtaining,
+ and what you know you’ll need to obtain in the future but have not yet begun the process to do so.",JEE
+66," c. Is your solution potentially subject to regulation under any international legal regimes? If yes, please
+ specify. Have you engaged with these regimes to date?",JEE
+67," d. In what areas are you uncertain about the legal or regulatory frameworks you’ll need to comply with? This
+ could include anything from local governance to international treaties. For some types of projects, we
+ recognize that clear regulatory guidance may not yet exist.",JEE
+68," e. Do you intend to receive any tax credits during the proposed delivery window for Frontier’s purchase?  If
+ so, please explain how you will avoid double counting.",JEE
+69,Offer to Frontier,JEE
+70,"This table constitutes your offer to Frontier, and will form the basis of contract discussions if you are selected for
+ purchase",JEE
+71," Proposed CDR over the project lifetime (tonnes) (should be net volume after taking into account the uncertainty 
+discount proposed in 4(c))",JEE
+72, Delivery window (at what point should Frontier consider your contract complete? Should match 1(f)),JEE
+73,Levelized Price ($/metric tonne CO₂) (This is the price per tonne of your offer to us for the tonnage described above),JEE
+74," Application Supplement: Surface Mineralization and/or Enhanced Weathering
+ (Only fill out this supplement if it applies to you)",JEE
+75,Source Material and Physical Footprint,JEE
+76,"1. What source material are you using, and how do you procure it?",JEE
+77,"2. Describe the ecological impacts of obtaining your source material. Is there an existing industry that
+ co-produces the minerals required?",JEE
+78,"3. Do you process that source mineral in any way (e.g., grinding to increase surface area)? What inputs does
+ this processing require (e.g. water, energy)? You should have already included their associated carbon
+ intensities in your LCA in Section 3.",JEE
+79,"4. Please fill out the table below regarding your project’s physical footprint. If you don’t know (e.g. you
+ procure your source material from a mining company who doesn’t communicate their physical footprint),
+ indicate that in the table below.
+(Source, Land area (km2) in 2021, Competing/existing project area use (if applicable))",JEE
+80,Source material mining,JEE
+81,Source material processing,JEE
+82,Deployment,JEE
+83," 5. How much CDR is feasible globally per year using this approach? Please include a reference to support
+ this potential capacity.",JEE
+84," 6. If you weren’t proceeding with this project, what’s the alternative use(s) of your source material? What
+ factors would determine this outcome?",JEE
+85," Human and Ecosystem Impacts, Toxicity Risk",JEE
+86,"1. What are the estimated environmental release rates of heavy metals (e.g. Cr, Ni, Pb, Hg)? Dust aerosol
+ hazards? P loading to streams? How will this be monitored?",JEE
+87,"2. If minerals are deployed on croplands, what are the estimated effects on crop yields? Include citations to
+ support this claim. How will actual effects be monitored?",JEE
+88,"3. How will you monitor potential impacts on organisms in your deployment environment? (e.g. health of
+ humans working in agricultural contexts, health of intertidal species, etc.)",JEE
+89,Company or organization name.,NEET
+90,Company or organization location.,NEET
+91,Name of person filling out this application.,NEET
+92,Email address of person filling out this application.,NEET
+93,Brief company or organization description.,NEET
+94,"Overall CDR solution (All criteria), 
+
+",NEET
+95,"a. Provide a technical explanation of the proposed project, including as much specificity regarding 
+location(s), scale, timeline, and participants as possible. Feel free to include figures and system schematics.",NEET
+96,"b.What is your role in this project, and who are the other actors that make this a full carbon
+ removal solution?",NEET
+97,c. What are the three most important risks your project faces?,NEET
+98,"d. If any, please provide link to your patents, pending or granted, that are available publicly.",NEET
+99,"e. Who’s the team working on this? What’s your team's unfair advantage in building this
+ solution? What skills do you not yet have on the team today that you are most urgently
+ looking to recruit?",NEET
+100,"Timeline and Durability
+",NEET
+101,a. Please fill out the table below.,NEET
+102,Project duration,NEET
+103,When does carbon removal occur?,NEET
+104,Distribution of that carbon removal over time,NEET
+105,Durability,NEET
+106,b. What are the upper and lower bounds on your durability claimed above in table?,NEET
+107,"c. Have you measured this durability directly, if so, how? Otherwise, if you’re relying on the
+literature, please cite data that justifies your claim. ",NEET
+108,"d. What durability risks does your project face? Are there physical risks (e.g. leakage,
+ decomposition and decay, damage, etc.)? Are there socioeconomic risks (e.g.
+ mismanagement of storage, decision to consume or combust derived products, etc.)?
+ What fundamental uncertainties exist about the underlying technological or biological
+ process?",NEET
+109," e. How will you quantify the actual permanence/durability of the carbon sequestered by
+ your project? If direct measurement is difficult or impossible, how will you rely  on
+ models or assumptions, and how will you validate those assumptions?",NEET
+110,"Gross Capacity
+
+",NEET
+111," a. Please fill out the table below. All tonnage should be described in metric tonnes here
+ and throughout the application.",NEET
+112,Gross carbon removal,NEET
+113,"If applicable, additional avoided emissions",NEET
+114,"b. Show your work for 9(a). How did you calculate these numbers? If you have significant uncertainties in your 
+capacity, what drives those?",NEET
+115,"c. What is your total overall capacity to sequester carbon at this time, 
+e.g. gross tonnes / year / (deployment / plant / acre / etc.)? 
+Here we are talking about your project / technology as a whole, so this number may 
+be larger than the specific capacity offered to Stripe and described above in 9(b). We ask this to understand where
+your technology currently stands, and to give context for the values you provided in 9(b).",NEET
+116," d. We are curious about the foundational assumptions or models you use to make projections about your 
+solution’s capacity. Please explain how you make these  estimates, and whether you have ground-truthed your 
+methods with direct measurement of a real system (e.g. a proof of concept experiment, pilot project, prior 
+deployment, etc.). We welcome citations, numbers, and links to real data!",NEET
+117," e. Documentation: If you have them, please provide links to any other information that may
+ help us understand your project in detail. This could include a project website,
+ third-party documentation, project specific research, data sets, etc.",NEET
+118,"Net Capacity / Life Cycle Analysis
+",NEET
+119,"a. Please fill out the table below to help us understand your system’s efficiency, and how much your lifecycle deducts from your gross carbon removal capacity.",NEET
+120,Gross carbon removal,NEET
+121,Gross project emissions,NEET
+122,Emissions / removal ratio,NEET
+123,Net carbon removal,NEET
+124,"b. Provide a carbon balance or “process flow” diagram for your carbon removal solution, visualizing the numbers 
+above in table 4(a). Please include all carbon flows and sources of energy, feedstocks, and emissions, with numbers 
+wherever possible. If you’ve had a third-party LCA performed, please link to it.",NEET
+125,"c. Please articulate and justify the boundary conditions you assumed above: why do your calculations and diagram 
+include or exclude different components of your system?",NEET
+126," d. Please justify all numbers used in your diagram above.  Are they solely modeled or have
+you measured them directly? Have they been independently measured? Your answers
+can include references to peer-reviewed publications",NEET
+127,"e. If you can’t provide sufficient detail above in 9(d), please point us to a third-party
+independent verification, ortell us what an independentverifier would measure about
+your process to validate the numbers you’ve provided.",NEET
+128,"Learning Curve and Costs (Backward-looking)
+We are interested in understanding thelearning curveof different carbon removal technologies (i.e. the
+ relationship between accumulated experience producing or deploying a technology, and technology
+ costs). To this end, we are curious to know how much additional deployment Stripe’s procurement of
+ your solution would result in. (There are no right or wrong answers here. If your project is selected we
+ may ask for more information related to this topic so we can better evaluate progress.)",NEET
+129,a. Please define and explain your unit of deployment.,NEET
+130,"b. How many units have you deployed from the origin of your project up until today?
+Please fill out the table below, adding rows as needed. Ranges are acceptable.
+(Year, Units deployed ""#"", Unit cost ""$/unit"", Unit gross capacity ""tCo2/unit"", Notes)",NEET
+131,"c. Qualitatively, how and why have your deployment costs changed thus far?",NEET
+132,d. How many additional units would be deployed if Stripe bought your offer? ,NEET
+133,"Cost and Milestones (Forward-looking)
+We are open to purchasing high cost carbon removal today with the expectation the cost per ton will
+ rapidly decline over time. We ask these questions to get a better understanding of your potential growth
+ and the inflection points that shape your cost trajectory. There are no right or wrong answers, but we
+ would prefer high and conservative estimates to low and optimistic. If we select you for purchase, we’ll
+ expect to work with you to understand your milestones and their verification in more depth. If you have
+ any reservations sharing the information below in the public application format, please contact the Stripe
+ team",NEET
+134, a. What is your cost per ton of CO₂ today?,NEET
+135," b. Help us understand, in broad strokes, what’s included vs excluded in the cost in 11(a)
+ above. We don’t need a breakdown of each, but rather an understanding of what’s “in”
+ versus “out.” Consider describing your CAPEX/OPEX blend, non-levelized CAPEX costs,
+ assumptions around energy costs, etc",NEET
+136,"c. How do you expect your costs to decline over time? Specifically, what do you estimate
+ your cost range will be as you reach megaton and then gigaton scale? We recognize that
+ at this point, these are speculative and directional estimates, but we would like to
+ understand the shape of your costs over time.",NEET
+137, d. Where are the primary areas you expect to be able to achieve cost declines?,NEET
+138,"e. In a worst case scenario, what would your range of cost per ton be?",NEET
+139,"f. List and describeup to threekey upcoming milestones,with the latest no further than
+ Q2 2023, that you’ll need to achieve in order to scale up the capacity of your approach.",NEET
+140,"g. How do these milestones impact the total gross capacity of your system, if at all?",NEET
+141,"h. How do these milestones impact your costs, if at all?",NEET
+142,"i. If you could ask one person in the world to do one thing to most enable your project to
+achieve its ultimate potential, who would you ask and what would you ask them to do?",NEET
+143,"j. Other than purchasing, what could Stripe do to help your project?",NEET
+144,"Public Engagement
+
+In alignment with Criteria 7, Stripe requires projects to consider and address potential social, political,
+ and ecosystem risks associated with their deployments. Projects with effective public engagement tend
+ to do the following:
+ ● Identify key stakeholders in the area they’ll be deploying
+ ● Have mechanisms to engage and gather opinions from those stakeholders and take those
+ opinions seriously, iterating the project as necessary.
+ The following questions are for us to help us gain an understanding of your public engagement strategy
+ and how your project is working to follow the White House Council on Environmental Quality’sdraft
+ guidance on responsible CCU/S development. We recognizethat, for early projects, this work may be
+ quite nascent, but we are looking to understand your early approach.",NEET
+145," a. Who have you identified as your external stakeholders, where are they located, and what
+ process did you use to identify them? Please include discussion of the communities potentially
+ engaging in or impacted by your project’s deployment.",NEET
+146," b. If applicable, how have you engaged with these stakeholders and communities? Has this work
+ been performed in-house, with external consultants, or with independent advisors? If you do
+ have any reports on public engagement that your team has prepared, please provide.",NEET
+147," c. If applicable, what have you learned from these engagements? What modifications have you
+ already made to your project based on this feedback, if any?",NEET
+148," d. Going forward, do you have changes planned that you have not yet implemented? How do you
+ anticipate that your processes for (a) and (b) will change as you execute on the work described
+ in this application?",NEET
+149," Environmental Justice
+ a. What are the potential environmental justice considerations, if any, that you have identified
+ associated with your project? Who are the key stakeholders?",NEET
+150, b. How do you intend to address any identified environmental justice concerns?,NEET
+151,"Legal and Regulatory Compliance
+ ",NEET
+152,"a. What legal opinions, if any, have you received regarding deployment of your solution?",NEET
+153," b. What domestic permits or other forms of formal permission do you require, if any, to engage in
+ the research or deployment of your project? Please clearly differentiate between what you have
+ already obtained, what you are currently in the process of obtaining, and what you know you’ll
+ need to obtain in the future but have not yet begun the process to do so.",NEET
+154,"c. Is your solution potentially subject to regulation under any international legal regimes? If yes,
+ please specify. Have you engaged with these regimes to date?",NEET
+155,"d. In what areas are you uncertain about the legal or regulatory frameworks you’ll need to comply
+ with? This could include anything from local governance to international treaties. For some types
+ of projects, we recognize that clear regulatory guidance may not yet exist.",NEET
+156," e. Has your CDR project received tax credits from any government compliance programs to-date?
+ Do you intend to receive any tax credits during the proposed delivery window for Stripe’s
+ purchase?  If so, which one(s)? (50 words)",NEET
+157," Offer to Stripe
+This table constitutes your offer to Stripe, and will form the basis of our expectations for contract
+ discussions if you are selected for purchase.",NEET
+158,Net carbon removal metric tonnes CO₂,NEET
+159,Delivery window,NEET
+160,Price ($/metric tonne CO₂),NEET
+161," Application Supplement: DAC
+ (Only fill out this supplement if it applies to you)
+ Note: these questions are with regards only to air capture: e.g. your air contactors, sorbents or solvents,
+ etc. Separately, there exist Geologic Injection and CO₂ Utilization supplements. We anticipate that most
+ companies filling out this DAC supplement should ALSO fill out one of those supplements to describe
+ their use of the CO₂ stream that’s an output of the capture system detailed here.",NEET
+162,"Physical Footprint
+",NEET
+163,"1. What is the physical land footprint of your project, and how do you anticipate this will change over the next few years? This should include your entire physical footprint, i.e., how much land is not available for other use because your project exists.",NEET
+164," 2. What is the volumetric footprint of your contactor? (How big is your physical machine compared
+ to how much you’re capturing?) and how do you anticipate this will change over the next few
+ years? These numbers should be smaller than (1) above",NEET
+165,"Capture Materials and Processes 
+",NEET
+166,1. What sorbent or solvent are you using?,NEET
+167, 2. What is its absorption capacity?(grams CO₂ per gramsmaterial/cycle),NEET
+168, 3. What is its desorption capacity?(grams CO₂ per gramsmaterial/cycle),NEET
+169,"4. How do you source your sorbent or solvent? Discuss how this sourcing strategy might change
+ as your solutions scales. Note any externalities associated with the sourcing or manufacture of it
+ (hazardous wastes, mining, etc. You should have already included the associated carbon
+ intensities in your LCA in Section 6)",NEET
+170, 5. How do you cycle your sorbent/solvent? How much energy is required?,NEET
+171," 6. What is your proposed source of energy? What is its assumed carbon intensity? What is its
+ assumed cost? How will this change over the duration of your project? (You should have already
+ included the associated carbon intensities in your LCA in Section 6)",NEET
+172," 7. Besides energy, what other resources do you require in cycling (if any), e.g water, and what do
+ they cost? Where and how are you sourcing these resources, and what happens to them after
+ they pass through your system? (You should have already included the associated carbon
+ intensities in your LCA in Section 6) (100 words)",NEET
+173," 8. Per (7), how much of these resources do you need per cycle?",NEET
+174, 9. How often do you cycle your sorbent/solvent?,NEET
+175,"10.Does your sorbent or solvent degrade over time? Is degradation driven primarily by cycling,
+ environmental conditions, or both?",NEET
+176,"11. In practical operation, how often do you need to replace your sorbent or solvent material, if at
+ all?",NEET
+177,"12.Per (11), what happens to your sorbent/solvent at end-of-life? Please note if it is hazardous or
+ requires some special disposal, and how you ensure end-of-life safety.",NEET
+178,"13.Several direct air technologies are currently being deployed around the world (e.g.Climeworks,
+ which Stripe purchased from in 2020). Please discuss the merits and advantages of your system
+ in comparison to existing systems.",NEET
+179,"Application Supplement: Surface Mineralization
+ (Only fill out this supplement if it applies to you)",NEET
+180," Source Material and Physical Footprint 
+",NEET
+181,"1. What source material are you using, and how do you procure it?",NEET
+182," 2. Describe the ecological impacts of obtaining your source material. Is there an existing industry
+ that co-produces the minerals required?",NEET
+183,"3. Do you process that source mineral in any way (e.g grinding to increase surface area)? What
+ inputs does this processing require (e.g. water, energy)? You should have already included their
+ associated carbon intensities in your LCA in Section 6.)",NEET
+184,"4. Please fill out the table below regarding your project’s physical footprint. If you don’t know (e.g.
+ you procure your source material from a mining company who doesn’t communicate their
+ physical footprint), indicate that in the square.
+(Source, Land area""km2"" in 2021, Completing/existing project area use ""If applicable"")",NEET
+185,Source material mining,NEET
+186,Source material processing,NEET
+187,Deployment,NEET
+188," 5. Imagine, hypothetically, that you’ve scaled up and are sequestering 100Mt of CO₂/yr. Please
+ project your footprint at that scale (we recognize this has significant uncertainty, feel free to
+ provide ranges and a brief description).
+(Source, Projected # of km2enabling 100Mt/yr, Projected competing project area use (if applicable))",NEET
+189,Source material mining,NEET
+190,Source material processing,NEET
+191,Deployment,NEET
+192,"6. If you weren’t proceeding with this project, what’s the alternative use(s) of your source material?
+ What factors would determine this outcome?",NEET
+193,Measurement and Verification,NEET
+194,"1. We are aware that the current state of the field may include unknowns about the kinetics of your
+ material. Describe how these unknowns create uncertainties regarding your carbon removal and
+ material, and what you wish you knew.",NEET
+195,"2. If your materials are deployed extensively, what measurement approaches will be used to
+ monitor weathering rates across different environments? What modeling approaches will be
+ used, and what data do these models require?",NEET
+196,"Human and Ecosystem Impacts, Toxicity Risk ",NEET
+197,"1. What are the estimated environmental release rates of heavy metals (e.g. Cr, Ni, Pb, Hg)? Dust
+ aerosol hazards? P loading to streams? How will this be monitored?",NEET
+198,"2. If minerals are deployed in farmland, what are the estimated effects on crop yields, what’s this
+ estimation based on, and how will actual effects be monitored?",NEET
+199,"3.How will you monitor potential impacts on organisms in your deployment environment? (E.g.
+ Health of humans working in agricultural contexts, health of intertidal species, etc. depending on
+ the context of deployment)",NEET
+200,"4. If you detect negative impacts, at what point would you choose to abort the project and how?",NEET
+201," Application Supplement: Geologic Injection
+ (Only fill out this supplement if it applies to you)",NEET
+202, Feedstock and Use Case ,NEET
+203,"1. What are you injecting? Gas? Supercritical gas? An aqueous solution? What compounds other
+ than C exist in your injected material?",NEET
+204," 2. Do you facilitate enhanced oil recovery (EOR), either in this deployment or elsewhere in your
+ operations? If so, please briefly describe. Answering Yes will not disqualify you.",NEET
+205,Throughput and Monitoring,NEET
+206," 1. Describe the geologic setting to be used for your project. What is the trapping mechanism, and
+ what infrastructure is required to facilitate carbon storage? How will you monitor that your
+ permanence matches what you described in Section 2 of the General Application?",NEET
+207,"2. For projects in the United States, for which UIC well class is a permit being sought (e.g. Class II, Class VI, etc.)?",NEET
+208,3. At what rate will you be injecting your feedstock?,NEET
+209, Environmental Hazards,NEET
+210,"1. What are the primary environmental threats associated with this injection project, what specific
+ actions or innovations will you implement to mitigate those threats, and how will they be
+ monitored moving forward?",NEET
+211,2. What are the key uncertainties to using and scaling this injection method?,NEET
+212,Company or organization name,CET
+213,Company or organization location (we welcome applicants from anywhere in the world),CET
+214,Name(s) of primary point(s) of contact for this application,CET
+215,Brief company or organization description,CET
+216,Project Overview,CET
+217,"a. Describe how the proposed technology removes CO2 
+from the atmosphere, including as many details as possible. Discuss location(s) and scale. 
+Please include figures and system schematics. Tell us why your system is best-in-class, and 
+how you’re differentiated from any other organization working on a similar technology.",CET
+218,b. What is the current technology readiness level (TRL)? Please include performance and stability data that you’ve already generated (including at what scale) to substantiate the status of your tech.,CET
+219," c. What are the key performance parameters that differentiate your technology (e.g. energy intensity,
+ reaction kinetics, cycle time, volume per X, quality of Y output)? What is your current measured value
+ and what value are you assuming in your nth-of-a-kind (NOAK) TEA?
+(Key performance parameter, Current observed value (units), Value assumed in NOAK TEA (units),
+ Why is it feasible to reach the NOAK value?)",CET
+220,"d. Who are the key people at your company who will be working on this? What experience do they have
+ with relevant technology and project development? What skills do you not yet have on the team today
+ that you are most urgently looking to recruit?",CET
+221," e. Are there other organizations you’re partnering with on this project (or need to partner with in order to
+ be successful)? If so, list who they are, what their role in the project is, and their level of commitment
+ (e.g., confirmed project partner, discussing potential collaboration, yet to be approached, etc.)
+(Partner, Role in the Project, Level of Commitment).",CET
+222," f. What is the total timeline of your proposal from start of development to end of CDR delivery? If you’re
+ building a facility that will be decommissioned, when will that happen?",CET
+223,"g. When will CDR occur (start and end dates)? If CDR does not occur uniformly over that time period,
+ describe the distribution of CDR over time. Please include the academic publications, field trial data, or
+ other materials you use to substantiate this distribution.",CET
+224," h. Please estimate your gross CDR capacity over the coming years (your total capacity, not just for this
+ proposal)
+(Year, Estimated gross CDR capacity (tonnes))",CET
+225," i. List and describe at least three key milestones for this project (including prior to when CDR starts), that
+ are needed to achieve the amount of CDR over the proposed timeline.
+(S,no, milestone description, Target completion date)",CET
+226," j. What is your IP strategy? Please link to relevant patents, pending or granted, that are available publicly
+ (if applicable).",CET
+227, k. How are you going to finance this project?,CET
+228," l. Do you have other CDR buyers for this project? If so, please describe the anticipated purchase volume
+ and level of commitment (e.g., contract signed, in active discussions, to be approached, etc.)",CET
+229," m. What other revenue streams are you expecting from this project (if applicable)? Include the source of
+ revenue and anticipated amount. Examples could include tax credits and co-products.",CET
+230," n. Identify risks for this project and how you will mitigate them. Include technical, project execution,
+ ecosystem, financial, and any other risks.
+(Risk, Mitigation strategy)",CET
+231,Durability,CET
+232," a. Describe how your approach results in permanent CDR (> 1,000 years). Include citations to
+ scientific/technical literature supporting your argument. What are the upper and lower bounds on your
+ durability estimate?",CET
+233," b. What durability risks does your project face? Are there physical risks (e.g. leakage, decomposition and
+ decay, damage, etc.)? Are there socioeconomic risks (e.g. mismanagement of storage, decision to
+ consume or combust derived products, etc.)? What fundamental uncertainties exist about the underlying
+ technological or biological process?",CET
+234,Gross Removal & Life Cycle Analysis (LCA),CET
+235," a. How much GROSS CDR will occur over this project’s timeline? All tonnage should be described inmetric
+ tonnesof CO2
+ here and throughout the application.Tell us how you calculated this value (i.e., show your
+ work). If you have uncertainties in the amount of gross CDR, tell us where they come from.",CET
+236,Gross tonnes of CDR over project lifetime,CET
+237,Describe how you calculated that value,CET
+238," b. How many tonnes of CO2
+ have you captured and storedto date? If relevant to your technology (e.g.,
+ DAC), please list captured and stored tons separately",CET
+239,"c. If applicable, list any avoided emissions that result from your project. For carbon mineralization in
+ concrete production, for example, removal would be the CO₂ utilized in concrete production and
+ avoided emissions would be the emissions reductions associated with traditional concrete production.
+ Do not include this number in your gross or net CDR calculations; it’s just to help us understand potential
+ co-benefits of your approach.",CET
+240," d. How many GROSS EMISSIONS will occur over the project lifetime? Divide that value by the gross CDR to
+ get the emissions / removal ratio. Subtract it from the gross CDR to get the net CDR for this project.",CET
+241,"Gross project emissions over the project timeline (should correspond to the boundary conditions
+ described below this table)",CET
+242,"Emissions / removal ratio (gross project emissions / gross CDR–must be less than
+ one for net-negative CDR systems)",CET
+243,Net CDR over the project timeline (gross CDR - gross project emissions),CET
+244," e. Provide a process flow diagram (PFD) for your CDR solution, visualizing the project emissions numbers
+ above. This diagram provides the basis for your life cycle analysis (LCA). Some notes:
+ ● The LCA scope should be cradle-to-grave
+ ● For each step in the PFD, include all Scope 1-3 greenhouse gas emissions on a CO2 
+equivalent
+ basis
+ ● Do not include CDR claimed by another entity (no double counting)
+ ● For assistance, please:
+ ○ Review the diagram below from the CDR Primer, Charm’s application from 2020 for a
+ simple example, or CarbonCure’s for a more complex example
+ ○ See University of Michigan’s Global CO2 
+Initiative resource guide
+ ● If you’ve had a third-party LCA performed, please link to it.",CET
+245," f. Please articulate and justify the boundary conditions you assumed above: why do your calculations and
+ diagram include or exclude different components of your system?",CET
+246,"g. Please justify all numbers used to assign emissions to each process step depicted in your diagram
+ above.  Are they solely modeled or have you measured them directly? Have they been independently
+ measured? Your answers can include references to peer-reviewed publications
+(Process Step, CO2 (eq) emissions over the project lifetime (metric tonnes), Describe how you calculated 
+that number. Include references where appropriate.)",CET
+247,"Measurement, Reporting, and Verification (MRV)
+ Above section captures a project’s lifecycle emissions, which is one of a number of MRV considerations. In this
+ section, we are looking for additional details on your MRV approach, with a particular focus on the ongoing
+ quantification of carbon removal outcomes and associated uncertainties",CET
+248," a. Describe your ongoing approach to quantifying the CDR of your project, including methodology, what
+ data is measured vs modeled, monitoring frequency, and key assumptions. If you plan to use an existing
+ protocol, please link to it. Please seeCharm’s bio-oilsequestration protocolfor reference, though note
+ we do not expect proposals to have a protocol at this depth at the prepurchase stage.",CET
+249," b. How will you quantify the durability of the carbon sequestered by your project discussed in 2(b)? If direct
+ measurement is difficult or impossible, how will you rely on models or assumptions, and how will you validate 
+those assumptions? (E.g. monitoring of injection sites, tracking biomass state and location,
+ estimating decay rates, etc.)",CET
+250," c. This tool diagrams components that we anticipate shouldbe measured or modeled to quantify CDR and
+ durability outcomes, along with high-level characterizations of the uncertainty type and magnitude for
+ each element. We are asking the net CDR volume to be discounted in order to account for uncertainty
+ and reflect the actual net CDR as accurately as possible. Please complete the table below. Some notes:
+ ● In the first column, list the quantification components from theQuantification Toolrelevant to your
+ project (e.g., risk of secondary mineral formation for enhanced weathering, uncertainty in the
+ mass of kelp grown, variability in air-sea gas exchange efficiency for ocean alkalinity
+ enhancement, etc.).
+ ● In the second column, please discuss the magnitude of this uncertainty related to your project
+ and what percentage of the net CDR should be discounted to appropriately reflect these
+ uncertainties. Your estimates should be based on field measurements, modeling, or scientific
+ literature. The magnitude for some of these factors relies on your operational choices (i.e.,
+ methodology, deployment site), while others stem from broader field questions, and in some
+ cases, may not be well constrained.We are not lookingfor precise figures at this stage, but
+ rather to understand how your project is thinking about these questions.
+ ● Seethis postfor details on Frontier’s MRV approachand a sample uncertainty discount
+ calculation and thisSupplier Measurement & VerificationQ&A documentfor additional guidance.",CET
+251,"Quantification component( Include each component from the Quantification Toolrelevant to your project),
+ Discuss the uncertainty impact related to your project(Estimate the impact of this component as a percentage 
+of net CDR. Include assumptions and scientific references if possible)",CET
+252," d. Based on your responses to 4(c), what percentage of the net CDR do you think should be discounted for
+ each of these factors above and in aggregate to appropriately reflect these uncertainties?",CET
+253," e. Will this project help advance quantification approaches or reduce uncertainty for this CDR pathway? If
+ yes, describe what new tools, models or approaches you are developing, what new data will be
+ generated, etc.?",CET
+254," f. Describe your intended plan and partners for verifying delivery and registering credits, if known. If a
+ protocol doesn’t yet exist for your technology, who will develop it? Will there be a third party auditor to
+ verify delivery against that protocol or the protocol discussed in 8(a)?",CET
+255,Cost,CET
+256," We are open to purchasing high-cost CDR today with the expectation the cost per tonne will rapidly decline over
+ time. The questions below are meant to capture some of the key numbers and assumptions that you are entering
+ into the separate techno-economic analysis (TEA) spreadsheet (see step 4 in Applicant Instructions). There are no
+ right or wrong answers, but we would prefer high and conservative estimates to low and optimistic. If we select
+ you for purchase, we’ll work with you to understand your milestones and their verification in more depth",CET
+257," a. What is the levelized price per net metric tonne of CO₂ removed for the project you’re proposing Frontier
+ purchase from? This does not need to exactly match the cost calculated for “This Project” in the TEA
+ spreadsheet (e.g., it’s expected to include a margin), but we will be using the data in that spreadsheet to
+ consider your offer. Please specify whether the price per tonne below includes the uncertainty discount in
+ the net removal volume proposed in response to question 8(d)",CET
+258," b. Please break out the components of this levelized price per metric tonne.
+(Component, Levelized price of net CDR for this project ($/tonne))",CET
+259," c. Describe the parameters that have the greatest sensitivity to cost (e.g., manufacturing efficiencies,
+ material cost, material lifetime, etc.). For each parameter you identify, tell us what the current value is, and
+ what value you are assuming for your NOAK commercial-scale TEA. If this includes parameters you
+ already identified in 1(c), please repeat them here (if applicable). Broadly, what would need to be true for
+ your approach to achieve a cost of $100/tonne?",CET
+260,"(Parameter with high impact on cost, Current value (units), Value assumed in NOAK TEA (units),
+ Why is it feasible to reach the NOAK value?)",CET
+261,d. What aspects of your cost analysis are you least confident in?,CET
+262,"e. How do the CDR costs calculated in the TEA spreadsheet compare with your own models? If there are
+ large differences, please describe why that might be (e.g., you’re assuming different learning rates,
+ different multipliers to get from Bare Erected Cost to Total Overnight Cost, favorable contract terms, etc.)",CET
+263," f. What is one thing that doesn’t exist today that would make it easier for you to commercialize your
+ technology? (e.g., improved sensing technologies, increased access to X, etc.)",CET
+264,Public Engagement,CET
+265," In alignment with Frontier’s Safety & Legality criteria, Frontier requires projects to consider and address potential
+ social, political, and ecosystem risks associated with their deployments. Projects with effective public
+ engagement tend to:
+ ● Identify key stakeholders in the area they’ll be deploying
+ ● Have mechanisms in place to engage and gather opinions from those stakeholders, take those opinions
+ seriously, and develop active partnerships, iterating the project as necessary
+ The following questions help us gain an understanding of your public engagement strategy and how your project
+ is working to follow best practices for responsible CDR project development. We recognize that, for early
+ projects, this work may be quite nascent, but we are looking to understand your early approach.",CET
+266," a. Who have you identified as relevant external stakeholders, where are they located, and what process did
+ you use to identify them? Please include discussion of the communities potentially engaging in or
+ impacted by your project’s deployment.",CET
+267," b. If applicable, how have you engaged with these stakeholders and communities? Has this work been
+ performed in-house, with external consultants, or with independent advisors? If you do have any reports
+ on public engagement that your team has prepared, please provide.",CET
+268,"c. If applicable, what have you learned from these engagements? What modifications have you already
+ made to your project based on this feedback, if any?",CET
+269," d. Going forward, do you have changes to your processes for (a) and (b) planned that you have not yet
+ implemented? How do you envision your public engagement strategy at the megaton or gigaton scale?",CET
+270,Environmental Justice,CET
+271," As a part of Frontier’s Safety & Legality criteria, Frontier seeks projects that proactively integrate environmental
+ and social justice considerations into their deployment strategy and decision-making on an ongoing basis.",CET
+272," a. What are the potential environmental justice considerations, if any, that you have identified associated
+ with your project? Who are the key stakeholders? Consider supply chain impacts, worker compensation
+ and safety, plant siting, distribution of impacts, restorative justice/activities, job creation in marginalized
+ communities, etc",CET
+273," b. How do you intend to address any identified environmental justice concerns and / or take advantage of
+ opportunities for positive impact?",CET
+274,Legal and Regulatory Compliance,CET
+275,"a. What legal opinions, if any, have you received regarding deployment of your solution?",CET
+276," b. What permits or other forms of formal permission do you require, if any, to engage in the research or
+ deployment of your project? What else might be required in the future as you scale? Please clearly
+ differentiate between what you have already obtained, what you are currently in the process of obtaining,
+ and what you know you’ll need to obtain in the future but have not yet begun the process to do so.",CET
+277," c. Is your solution potentially subject to regulation under any international legal regimes? If yes, please
+ specify. Have you engaged with these regimes to date?",CET
+278," d. In what areas are you uncertain about the legal or regulatory frameworks you’ll need to comply with? This
+ could include anything from local governance to international treaties. For some types of projects, we
+ recognize that clear regulatory guidance may not yet exist.",CET
+279," e. Do you intend to receive any tax credits during the proposed delivery window for Frontier’s purchase?  If
+ so, please explain how you will avoid double counting.",CET
+280,Offer to Frontier,CET
+281,"This table constitutes your offer to Frontier, and will form the basis of contract discussions if you are selected for
+ purchase",CET
+282," Proposed CDR over the project lifetime (tonnes) (should be net volume after taking into account the uncertainty 
+discount proposed in 4(c))",CET
+283, Delivery window (at what point should Frontier consider your contract complete? Should match 1(f)),CET
+284,Levelized Price ($/metric tonne CO₂) (This is the price per tonne of your offer to us for the tonnage described above),CET
+285," Application Supplement: Surface Mineralization and/or Enhanced Weathering
+ (Only fill out this supplement if it applies to you)",CET
+286,Source Material and Physical Footprint,CET
+287,"1. What source material are you using, and how do you procure it?",CET
+288,"2. Describe the ecological impacts of obtaining your source material. Is there an existing industry that
+ co-produces the minerals required?",CET
+289,"3. Do you process that source mineral in any way (e.g., grinding to increase surface area)? What inputs does
+ this processing require (e.g. water, energy)? You should have already included their associated carbon
+ intensities in your LCA in Section 3.",CET
+290,"4. Please fill out the table below regarding your project’s physical footprint. If you don’t know (e.g. you
+ procure your source material from a mining company who doesn’t communicate their physical footprint),
+ indicate that in the table below.
+(Source, Land area (km2) in 2021, Competing/existing project area use (if applicable))",CET
+291,Source material mining,CET
+292,Source material processing,CET
+293,Deployment,CET
+294," 5. How much CDR is feasible globally per year using this approach? Please include a reference to support
+ this potential capacity.",CET
+295," 6. If you weren’t proceeding with this project, what’s the alternative use(s) of your source material? What
+ factors would determine this outcome?",CET
+296," Human and Ecosystem Impacts, Toxicity Risk",CET
+297,"1. What are the estimated environmental release rates of heavy metals (e.g. Cr, Ni, Pb, Hg)? Dust aerosol
+ hazards? P loading to streams? How will this be monitored?",CET
+298,"2. If minerals are deployed on croplands, what are the estimated effects on crop yields? Include citations to
+ support this claim. How will actual effects be monitored?",CET
+299,"3. How will you monitor potential impacts on organisms in your deployment environment? (e.g. health of
+ humans working in agricultural contexts, health of intertidal species, etc.)",CET
