@@ -2,18 +2,14 @@ const axios = require('axios');
 const FormData = require('form-data');
 const config = require('../config');
 const fs = require('fs');
+const utils = require('../utils');
 
 const repository = {
     fetchQuestions: async (topicId, paginationStart = 0 , paginationLimit = 25)=>{
         try {
-            console.log("topicid:",topicId);
-            console.log("paginationStart:",paginationStart);
-            console.log("paginationLimit:",paginationLimit);
             const dataObj = [];
             const response = await axios.get(`http://localhost:1337/api/topics/${topicId}`, {
                     params: {
-                        [`pagination[start]`]: paginationStart,
-                        [`pagination[limit]`]: paginationLimit,
                         populate: 'questions',
                     },
                     headers: {
@@ -25,8 +21,9 @@ const repository = {
             questionObj.data.forEach(element => {
                 dataObj.push({id: element.id, question: element.attributes.description})
             });
-            console.log(dataObj);
-            return dataObj;
+            //applying pagination as it is not supported in strapi with populate
+            const paginatedObj = utils.paginate(dataObj, paginationStart, paginationLimit);
+            return paginatedObj;
         } catch (error) {
             console.log("fetchQuestions Error");
             throw error;
