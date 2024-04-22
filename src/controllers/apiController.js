@@ -2,10 +2,6 @@
 const repository = require('../repository/questionRepository');
 
 const apiController = {
-    // sendTopic: async (req, res)=> {
-    //     // axios
-    // }
-    // ,
     getQuestions: async (req,res)=>{
         try {
             const {topicId, paginationStart, paginationLimit} = req.query;
@@ -33,10 +29,12 @@ const apiController = {
         try {
             const file = req.file;
             const answer = req.body.answer;
-            if (!answer || !file) {
-                return res.status(400).json({ message: 'No file uploaded or invalid input' });
+            const questionId = parseInt(req.body.questionId,10);
+            console.log(typeof questionId);
+            if (!answer) {
+                return res.status(400).json({ message: 'Invalid or missing input' });
             }
-            console.log(answer);
+            await repository.postAnswer(questionId, answer, file);
             res.status(200).json({message:'success'});
         } catch (error) {
             console.log('Error in fetching questions', error);
@@ -45,7 +43,7 @@ const apiController = {
                 error
             });
         }
-    }
+    },
 }
 
 module.exports = apiController;
