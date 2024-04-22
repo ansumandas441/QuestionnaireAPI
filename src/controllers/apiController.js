@@ -10,14 +10,16 @@ const apiController = {
                 return res.status(400).json({ message: 'Invalid input please provide a valid topicId' });
             }
             if(paginationStart && !Number.isInteger(Number(paginationStart))) {
-                return res.status(400).json({ message: 'Invalid input please provide a valid topicId' });
+                return res.status(400).json({ message: 'Invalid input: paginationStart must be an integer' });
             }
             if(paginationLimit && !Number.isInteger(Number(paginationLimit))) {
-                return res.status(400).json({ message: 'Invalid input please provide a valid topicId' });
+                return res.status(400).json({ message: 'Invalid input: paginationLimit must be an integer' });
             }
             const data = await repository.fetchQuestions(topicId, paginationStart, paginationLimit);
             // const jsonData = JSON.stringify(data);
-            res.status(200).json(data);
+            res.status(200).json({
+                message:"Success",
+                data:data});
         } catch (error) {
             console.log('Error in fetching questions', error);
             res.status(500).json({
