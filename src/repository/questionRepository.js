@@ -56,19 +56,6 @@ const repository = {
             throw error;
         }
     },
-    doesQuestionExit: async (questionId) => {
-        try {
-            const response = await axios.get(`http://localhost:1337/api/questions/${questionId}`, {
-            headers: {
-                Authorization: `Bearer ${config.strapiApiToken}`
-            }    
-        });
-        return !!response.data;
-        } catch (error) {
-            console.log(error);
-            throw error;
-        } 
-    }
 }
 
 const sendFile = (id, file)=>{
