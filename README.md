@@ -1,5 +1,4 @@
-
-# Questionnaire API
+# Questionnaire Application with Express and strapi cms.
 
 The objective of this project is to create APIs that facilitate the submission of new questionnaires based on selected project types. These APIs should allow users to select a project type, retrieve questions specific to that type, and submit their responses, including text and file uploads.
 
@@ -44,10 +43,3 @@ Now run the project with ```npm start```:
 
  ## Documentation swagger endpoints:
 ```http://localhost:3001/dev/docs/api-docs```   
-
-
-## Project Link:
-
-Complete project can be found on:
-
-   https://drive.google.com/file/d/1A5BJCIuD-l_SKdEOiYoodRfQ3R9caNda/view?usp=drive_link
